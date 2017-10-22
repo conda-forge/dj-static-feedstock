@@ -3,7 +3,7 @@ About dj-static
 
 Home: https://github.com/kennethreitz/dj-static
 
-Package license: BSD License
+Package license: BSD-2-Clause
 
 Feedstock license: BSD 3-Clause
 
@@ -14,9 +14,7 @@ Summary: Serve production static files with Django.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/dj-static-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dj-static-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/dj-static-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/dj-static-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/dj-static-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/dj-static-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/dj-static-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dj-static-feedstock)
 
 Current release info
 ====================
